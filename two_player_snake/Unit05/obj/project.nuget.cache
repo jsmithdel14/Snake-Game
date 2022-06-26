@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iltlCVKtQYSidatdizlN6KmZ4ieLItq3AuE/Md7XGlLMozwcUHzOYDL8aOasIx7jKeRF6RSFyu3squfrXzm6MQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jsmit\\.vscode\\.git\\C#\\CSE 210 -Class repositories\\two_player_snake\\Unit05\\Unit05.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jsmit\\.nuget\\packages\\raylib-cs\\3.7.0.1\\raylib-cs.3.7.0.1.nupkg.sha512",
+    "C:\\Users\\jsmit\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
